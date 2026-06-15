@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/3bbf6aba-e0d0-4df2-a6e1-262a75aab755
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+   git clone https://github.com/AlmeidaKevin/crud_flutter.git
    ```
 
 2. Instala las dependencias:
