@@ -31,7 +31,7 @@ Aplicación móvil desarrollada en Flutter para gestionar un catálogo de videoj
 
   <img width="45%" height="1600" alt="Crud_flutter_1" src="https://github.com/user-attachments/assets/9e08bb69-70e1-4b12-a6f0-11136a896934" />
   <img width="45%" height="1600" alt="Crud_flutter_2" src="https://github.com/user-attachments/assets/6a4212fb-fa28-4112-ab10-88c99b609bac" />
-  <img width="720" height="1600" alt="Crud_flutter_3" src="https://github.com/user-attachments/assets/69d181ad-35cf-4624-b6e5-66385bd3b0b1" />
+  <img width="45%" height="1600" alt="Crud_flutter_3" src="https://github.com/user-attachments/assets/69d181ad-35cf-4624-b6e5-66385bd3b0b1" />
   
 
 </p>
